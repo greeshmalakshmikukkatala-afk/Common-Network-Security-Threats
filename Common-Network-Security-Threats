@@ -1,0 +1,23 @@
+# Common Network Security Threats
+## Introduction
+Network security threats are harmful activities that target computer networks to steal data, disrupt services, or gain unauthorized access.
+## Common Threats
+* **Malware:** Software designed to damage systems or steal data.
+* **Phishing:** Fake messages used to trick users into sharing sensitive information.
+* **Ransomware:** Locks files and demands payment for access.
+* **DoS/DDoS Attacks:** Flood a network to make it unavailable.
+* **Man-in-the-Middle (MITM):** Intercepts communication between users.
+* **SQL Injection:** Inserts malicious code into databases.
+* **Password Attacks:** Attempts to crack user passwords.
+* **Zero-Day Exploits:** Attacks on unknown vulnerabilities.
+* **Spyware:** Secretly monitors user activity.
+* **Botnets:** Group of infected devices used for attacks.
+## Prevention Methods
+* Use strong passwords and authentication
+* Install antivirus and firewall protection
+* Keep software updated regularly
+* Avoid clicking suspicious links or emails
+* Use secure networks and encryption
+## Conclusion
+Understanding network security threats helps protect systems and data from cyber attacks and ensures safe digital communication.
+
